@@ -16,7 +16,7 @@ export default function Navbar({ navButtons }) {
       <div class="flex justify-between md:hidden">
         <div>
           <Link href="/">
-            <img src="./../public/images/logo.png" className="h-24 w-24 md:h-24 lg:h-36 lg:w-36 cursor-pointer" />
+            <img src="./public/images/logo.png" className="h-24 w-24 md:h-24 lg:h-36 lg:w-36 cursor-pointer" />
           </Link>
         </div>
         <button id="hamburger">
