@@ -1,6 +1,6 @@
 import NavButton from "./../components/navbutton";
 import Link from "next/link";
-import GCPLogo from "./../public/gcellogo.svg";
+import GCPLogo from "./../public/image_2022-08-01_174235707.png";
 import React from "react";
 
 export default function Navbar({ navButtons }) {
