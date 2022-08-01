@@ -3,22 +3,22 @@ export default function Footer() {
     <>
       <div className="bottom-0 w-full mx-auto max-w-lg md:max-w-3xl lg:max-w-4xl mb-16 text-xs">
         <p>
-          Gender Cell Portal is a committee of IIIT Bangalore. This website was
+          The voting system is a sub-system of 21K School. This website was
           built by{" "}
           <a
-            href="https://www.linkedin.com/in/tejaskotha/"
+            href="github.com/solomonshalom"
             target="_blank"
             className="link-styling"
           >
-            Tejas Kotha
+            Solomon Shalom Lijo
           </a>{" "}
           (iMtech 2016) and{" "}
           <a
-            href="https://www.linkedin.com/in/shreyas-gupta/"
+            href="github.com/zaidajani"
             target="_blank"
             className="link-styling"
           >
-            Shreyas Gupta
+            Zaid Ajani
           </a>{" "}
           (iMtech 2016) using Next.js and Tailwind CSS.{" "}
         </p>
