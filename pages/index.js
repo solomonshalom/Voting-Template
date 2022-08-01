@@ -12,37 +12,33 @@ export default function Home() {
         <div>
           <div>
             <div className="mb-12">
-              <h1 className="title-style">Who are we?</h1>
+              <h1 className="title-style">The Offical Voting Poll</h1>
               <p>
-                IIIT Bangalore’s Gender Cell is an institutional body that works
-                towards promoting equality, nondiscrimination and gender justice
-                on the campus. It organises workshops, seminars and inquires
-                into matters of misconduct.
+                Welcome to the Official Voting Poll Of 21K! Through this website, you can 
+                vote your favorite student who you want to see as part of the student council!
               </p>
               <br />
               <p>
-                ICC (separate from Gender Cell) is a government mandated body
-                which inquires specifically in the matters of sexual harassment.
+                Note that each position only allow's you to vote once, so choose wisely
               </p>
             </div>
             <div className="mb-12">
-              <h1 className="title-style">What do we do?</h1>
+              <h1 className="title-style">How Do I Vote?</h1>
               <p>
-                The Cell works proactively towards developing a safe and secure
-                environment for all students so that they may gain their
-                education without fear of prejudice, gender bias, hostility or
-                sexual harassment. The Gender Cell is committed to the following
-                goals,
+                To vote the student of your choice, click the link through the button provided below or head over to
+                <a href="/resources">resources</a> to find the form where you will be voting.
               </p>
               <br />
+              Now, if you need a step-by-step process on voting - please check out the below steps to vote!
               <ul className="list-disc pl-6">
                 <li>
-                  Gender Amity - Promoting gender equality, gender-justice and
-                  non-discrimination
+                  Click on either the button given below or head over to <a href="/resources">resources</a> to find the link
+                  to the google form
                 </li>
                 <li>
-                  Inquiry and Action - Inquires into complaints and recommends
-                  action
+                  Select the students you would like to vote and the position (president, vice-president and CEO of Microsoft/Apple/Amazon or Google).
+                  Once your done, the votes will be counted and the student will be selected! if your luckly, the student you voted for might be the one 
+                  who could get selected :D
                 </li>
               </ul>
             </div>
@@ -50,19 +46,19 @@ export default function Home() {
               <h1 className="title-style">Need Assistance?</h1>
               <p>
                 Any student, faculty, staff member or a service provider who is
-                associated with IIITB may contact the Gender Cell.
+                associated with 21K may contact us through the portal @ Solomon Shalon Lijo / Zaid Ajani.
               </p>
               <br />
               <p>
-                Complaints lodged through the form below will be automatically
-                redirected to the respective body based on the class of offense.{" "}
+                Questions lodged through the portal below will be manually
+                redirected to the respective body or if possible, will be answered by us.{" "}
               </p>
               <div className="flex flex-col md:flex-row md:items-center mb-48">
                 <div className="flex-1 md:flex-initial">
                   <Link href="mailto: meenakshi@iiitb.ac.in">
                     <button className="flex cursor-pointer bg-black items-center rounded-md mt-4 mr-6 p-3 px-4">
                       <div className="pr-2 text-white font-medium text-sm lg:text-base">
-                        Mail a Representative
+                        Voting Form
                       </div>
                       <div>
                         <img
@@ -77,12 +73,12 @@ export default function Home() {
                 </div>
                 <div className="flex-1 md:flex-initial">
                   <Link
-                    href="https://forms.office.com/Pages/ResponsePage.aspx?id=MebC3lbWPEev_0RwCJadLxuwTdfpsANMrxbpe5A1UUVUNTBWME43OUsxRUFTQ1cwUTNROVlZVlM2TS4u"
+                    href="21kschool.in"
                     target="_blank"
                   >
                     <button className="flex bg-black cursor-pointer items-center rounded-md mt-4 p-3 px-4">
                       <div className="pr-2 text-white text-sm lg:text-base font-medium hover:link-styling">
-                        Lodge a Complaint
+                        Lodge A Question
                       </div>
                       <div>
                         <img
