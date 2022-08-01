@@ -38,7 +38,7 @@ export default function Navbar({ navButtons }) {
         <nav className="toggle hidden md:flex justify-between mt-2 md:mt-8 z-10 mb-6 md:mb-8 lg:mb-12">
           <div className="hidden md:flex">
             <Link href="/">
-            <img src="https://mms.businesswire.com/media/20220329005489/en/1403642/23/21KSchoolLogo.jpg" className="h-24 w-24 md:h-24 lg:h-36 lg:w-36 cursor-pointer" />
+            <img src="https://mms.businesswire.com/media/20220329005489/en/1403642/23/21KSchoolLogo.jpg" className="cursor-pointer" />
             </Link>
           </div>
           <div
