@@ -16,7 +16,7 @@ export default function About() {
             <div className="rounded-full overflow-hidden mt-8">
               <Image
                 src="https://static.wixstatic.com/media/b225b2_03d5c79ce69340f7bc115e70399f1ac0~mv2.jpg/v1/crop/x_0,y_11,w_304,h_326/fill/w_299,h_321,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/pasaport%20size%20photo%20-%20khadija%20muddassir.jpg"
-                alt="Image of Prof.Meenakshi"
+                alt=""
                 width={300}
                 height={300}
                 layout="responsive"
@@ -39,7 +39,7 @@ export default function About() {
             <div className="rounded-full overflow-hidden mt-8">
               <Image
                 src="https://static.wixstatic.com/media/b225b2_6832be55beef4d5b8d6aa39bb78d735e~mv2.jpg/v1/crop/x_0,y_497,w_1080,h_1479/fill/w_329,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot_2022-07-27-17-17-02-42_99c04817c0de5652397fc8b56c3b3817%20-%20Firdous%20Khan.jpg"
-                alt="Image of Prof. Janaki"
+                alt=""
                 width={300}
                 height={300}
                 layout="responsive"
@@ -66,7 +66,7 @@ export default function About() {
             <div className="rounded-full overflow-hidden mt-8">
               <Image
                 src="https://static.wixstatic.com/media/b225b2_f977e3448c60477988bde90768cd9934~mv2.jpeg/v1/fill/w_299,h_374,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/alisha%20badshah%20passport%20size%20photo%20-%20Alisha%20Badshah.jpeg"
-                alt="Image of Prof. Janaki"
+                alt=""
                 width={300}
                 height={300}
                 layout="responsive"
@@ -94,7 +94,7 @@ export default function About() {
             <div className="rounded-full overflow-hidden mt-8">
               <Image
                 src="https://static.wixstatic.com/media/b225b2_758c1e88a6764400b6ff8ec462d28e9f~mv2.png/v1/crop/x_6,y_0,w_209,h_224/fill/w_256,h_275,al_c,lg_1,q_85,enc_auto/96A19A41-3D8F-4B22-A14A-5BB055D6684F%20-%20Kriti%20Vohra.png"
-                alt="Image of Cmde. Sridhar"
+                alt=""
                 width={300}
                 height={300}
                 layout="responsive"
@@ -122,7 +122,7 @@ export default function About() {
             <div className="rounded-full overflow-hidden mt-8">
               <Image
                 src="/Cynthia-DMello.jpg"
-                alt="Image of Prof. Janaki"
+                alt=""
                 width={300}
                 height={300}
                 layout="responsive"
