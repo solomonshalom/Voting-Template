@@ -34,7 +34,7 @@ export default function Resources() {
                 <em>
                   (
                   <a
-                    href="#"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSdjx65gvMin2q2p5mhW4Wuw6lVWZDS5I8yHCKZWfRriE0H_Fw"
                     className="cursor-pointer text-blue-600 hover:underline"
                     target="_blank"
                   >

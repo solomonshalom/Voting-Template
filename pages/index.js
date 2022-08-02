@@ -55,7 +55,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col md:flex-row md:items-center mb-48">
                 <div className="flex-1 md:flex-initial">
-                  <Link href="mailto: meenakshi@iiitb.ac.in">
+                  <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdjx65gvMin2q2p5mhW4Wuw6lVWZDS5I8yHCKZWfRriE0H_Fw/closedform">
                     <button className="flex cursor-pointer bg-black items-center rounded-md mt-4 mr-6 p-3 px-4">
                       <div className="pr-2 text-white font-medium text-sm lg:text-base">
                         Voting Form
