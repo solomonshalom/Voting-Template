@@ -11,7 +11,7 @@ export default function About() {
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <div>
-          <h1 className="title-style">President</h1>
+          <h1 className="title-style">Students</h1>
           <div className="grid grid-cols-4 gap-y-6 gap-x-6 mt-12 mb-64 items-center text-sm md:text-base font-normal leading-normal">
             <div className="rounded-full overflow-hidden mt-8">
               <Image
