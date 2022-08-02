@@ -12,7 +12,7 @@ export default function Footer() {
           >
             Solomon Shalom Lijo
           </a>{" "}
-          (iMtech 2016) using Next.js and Tailwind CSS.{" "}
+          using Next.js and Tailwind CSS.{" "}
         </p>
       </div>
     </>
