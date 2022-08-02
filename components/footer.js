@@ -12,14 +12,6 @@ export default function Footer() {
           >
             Solomon Shalom Lijo
           </a>{" "}
-          (iMtech 2016) and{" "}
-          <a
-            href="github.com/zaidajani"
-            target="_blank"
-            className="link-styling"
-          >
-            Zaid Ajani
-          </a>{" "}
           (iMtech 2016) using Next.js and Tailwind CSS.{" "}
         </p>
       </div>
