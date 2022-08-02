@@ -16,7 +16,7 @@ export default function Navbar({ navButtons }) {
       <div class="flex justify-between md:hidden">
         <div>
           <Link href="/">
-            <img src="https://gcdnb.pbrd.co/images/BtuMPfi8815n.png?o=1" className="h-24 w-34 md:h-24 lg:h-36 lg:w-36 cursor-pointer" />
+            <img src="https://i.ibb.co/SKhV8v2/image-2022-08-02-092224071.png" className="h-24 w-34 md:h-24 lg:h-36 lg:w-36 cursor-pointer" />
           </Link>
         </div>
         <button id="hamburger">
@@ -38,7 +38,7 @@ export default function Navbar({ navButtons }) {
         <nav className="toggle hidden md:flex justify-between mt-2 md:mt-8 z-10 mb-6 md:mb-8 lg:mb-12">
           <div className="hidden md:flex">
             <Link href="/">
-            <img src="https://gcdnb.pbrd.co/images/BtuMPfi8815n.png?o=1" className="h-24 w-24 md:h-24 lg:h-36 lg:w-36 cursor-pointer" />
+            <img src="https://i.ibb.co/SKhV8v2/image-2022-08-02-092224071.png" className="h-24 w-24 md:h-24 lg:h-36 lg:w-36 cursor-pointer" />
             </Link>
           </div>
           <div
